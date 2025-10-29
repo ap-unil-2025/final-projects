@@ -1,0 +1,7 @@
+# Don't track template subdirectories (they have their own repos)
+*-template/
+
+# But do track documentation
+!README.md
+!INSTRUCTOR_SETUP.md
+!.gitignore
