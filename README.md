@@ -8,13 +8,13 @@ Professional-grade project templates for Advanced Programming MSc course, coveri
 
 | Template                               | Domain              | Description                                               | Difficulty |
 | -------------------------------------- | ------------------- | --------------------------------------------------------- | ---------- |
-| [**econgames**](econgames-template/)   | Game Theory         | Monte Carlo simulator for repeated normal-form games      | ⭐⭐⭐     |
-| [**simclt**](simclt-template/)         | Actuarial Science   | Stochastic chain-ladder reserving with bootstrap          | ⭐⭐⭐⭐   |
-| [**riskcalc**](riskcalc-template/)     | Risk Management     | VaR, CVaR, and portfolio optimization toolkit             | ⭐⭐⭐     |
-| [**timeseries**](timeseries-template/) | Econometrics        | Time series analysis and forecasting (ARIMA, etc.)        | ⭐⭐⭐⭐   |
-| [**mlfinance**](mlfinance-template/)   | ML/Finance          | Machine learning for financial prediction and backtesting | ⭐⭐⭐⭐⭐ |
-| [**qsim**](qsim-template/)             | Operations Research | Discrete-event queue simulator for performance analysis   | ⭐⭐⭐⭐   |
-| [**pymort**](pymort-template/)         | Actuarial Finance   | Longevity bond pricing and mortality modeling             | ⭐⭐⭐⭐⭐ |
+| [**econgames**](https://github.com/ap-unil-2025/econgames-template)   | Game Theory         | Monte Carlo simulator for repeated normal-form games      | ⭐⭐⭐     |
+| [**simclt**](https://github.com/ap-unil-2025/simclt-template)         | Actuarial Science   | Stochastic chain-ladder reserving with bootstrap          | ⭐⭐⭐⭐   |
+| [**riskcalc**](https://github.com/ap-unil-2025/riskcalc-template)     | Risk Management     | VaR, CVaR, and portfolio optimization toolkit             | ⭐⭐⭐     |
+| [**timeseries**](https://github.com/ap-unil-2025/timeseries-template) | Econometrics        | Time series analysis and forecasting (ARIMA, etc.)        | ⭐⭐⭐⭐   |
+| [**mlfinance**](https://github.com/ap-unil-2025/mlfinance-template)   | ML/Finance          | Machine learning for financial prediction and backtesting | ⭐⭐⭐⭐⭐ |
+| [**qsim**](https://github.com/ap-unil-2025/qsim-template)             | Operations Research | Discrete-event queue simulator for performance analysis   | ⭐⭐⭐⭐   |
+| [**pymort**](https://github.com/ap-unil-2025/pymort-template)         | Actuarial Finance   | Longevity bond pricing and mortality modeling             | ⭐⭐⭐⭐⭐ |
 
 ---
 
@@ -108,43 +108,43 @@ All projects must meet:
 
 ## 📚 Template Details
 
-### [EconGames](econgames-template/) - Game Theory Simulation
+### [EconGames](https://github.com/ap-unil-2025/econgames-template) - Game Theory Simulation
 
 Simulate repeated games like Prisoner's Dilemma, implement strategies (Tit-for-Tat, Grim Trigger), and analyze evolutionary dynamics.
 
 **Key Topics**: Game theory, Monte Carlo simulation, strategy optimization
 
-### [SimCLT](simclt-template/) - Chain-Ladder Reserving
+### [SimCLT](https://github.com/ap-unil-2025/simclt-template) - Chain-Ladder Reserving
 
 Implement Mack chain-ladder method for insurance reserving with bootstrap-based predictive distributions.
 
 **Key Topics**: Actuarial science, bootstrap methods, claims reserving
 
-### [RiskCalc](riskcalc-template/) - Risk Measurement
+### [RiskCalc](https://github.com/ap-unil-2025/riskcalc-template) - Risk Measurement
 
 Calculate VaR, CVaR, and optimize portfolios using mean-variance, minimum variance, and risk parity approaches.
 
 **Key Topics**: Risk management, portfolio theory, optimization
 
-### [TimeSeries](timeseries-template/) - Time Series Analysis
+### [TimeSeries](https://github.com/ap-unil-2025/timeseries-template) - Time Series Analysis
 
 Fit ARIMA models, detect structural breaks, generate forecasts with prediction intervals.
 
 **Key Topics**: Econometrics, time series, forecasting
 
-### [MLFinance](mlfinance-template/) - ML for Finance
+### [MLFinance](https://github.com/ap-unil-2025/mlfinance-template) - ML for Finance
 
 Build ML models for financial prediction with rigorous backtesting and feature engineering.
 
 **Key Topics**: Machine learning, finance, backtesting
 
-### [QSIM](qsim-template/) - Queueing Simulation
+### [QSIM](https://github.com/ap-unil-2025/qsim-template) - Queueing Simulation
 
 Simulate queueing systems (M/M/1, M/M/c, networks) for performance analysis and optimization.
 
 **Key Topics**: Operations research, discrete-event simulation, queueing theory
 
-### [PyMort](pymort-template/) - Longevity Bond Pricing
+### [PyMort](https://github.com/ap-unil-2025/pymort-template) - Longevity Bond Pricing
 
 Model mortality dynamics (Lee-Carter, CBD), price longevity bonds, and analyze longevity risk.
 
